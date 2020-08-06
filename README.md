@@ -1,2 +1,5 @@
 # Spark-SQL-et-DataFrames
 Nous explorerons des moyens typiques d'interroger et d'agréger des données relationnelles en tirant parti des concepts de DataFrames et de SQL à l'aide de Spark.
+
+## Étude de cas pratique avec Spark SQL
+Nous explorerons des moyens typiques d'interroger et d'agréger des données relationnelles en tirant parti des concepts de DataFrames et de SQL à l'aide de Spark. Nous travaillerons sur un jeu de données intéressant de la KDD Cup 1999et essayez d'interroger les données en utilisant des abstrations de haut niveau comme le dataframe qui a déjà été un succès dans les outils d'analyse de données populaires comme R et Python. Nous verrons également à quel point il est facile de créer des requêtes de données à l'aide du langage SQL, que vous avez appris, et de récupérer des informations pertinentes à partir de nos données. Cela se produit également à grande échelle sans que nous ayons à faire beaucoup plus puisque Spark distribue ces structures de données efficacement dans le back-end, ce qui rend nos requêtes évolutives et aussi efficaces que possible. Nous commençons par charger quelques dépendances de base.
